@@ -25,7 +25,7 @@ int main()
 
     // glfw window creation
     // --------------------
-    GLFWwindow* window = glfwCreateWindow(SCR_WIDTH, SCR_HEIGHT, "Nafiz Al Zawad", NULL, NULL);//Here you can put any name as window name
+    GLFWwindow* window = glfwCreateWindow(SCR_WIDTH, SCR_HEIGHT, "Tasnuba Akter", NULL, NULL);//Here you can put any name as window name
     if (window == NULL)
     {
         std::cout << "Failed to create GLFW window" << std::endl;
